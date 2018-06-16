@@ -18,10 +18,6 @@ XR Settings/Virtual Reality Supported: On
 
 XR Settings/Virtual Reality SDKs: Cardboard
 
-### Event Trigger
-
-Pointer Click
-
 ### Оценка за задание:
 
 6 из 7
